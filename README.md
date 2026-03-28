@@ -6,6 +6,8 @@ Impulsion 한국어 패치
   - 이 패치는 제작사의 요청에 의해 언제든 삭제될 수 있습니다.
 - 수정 및 재배포 금지입니다.
 
+<img width="1398" height="786" alt="impulsion" src="https://github.com/user-attachments/assets/73869295-4651-486e-b8f6-d10f286a4eb2" />
+
 ## 게임
 
 - [스팀 상점 페이지](https://store.steampowered.com/app/811270/Impulsion/)
